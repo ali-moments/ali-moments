@@ -18,6 +18,6 @@
 <!-- GitHub Readme stats -->
 <!-- ![ali's github stats](https://github-readme-stats.vercel.app/api?username=ali-moments&show_icons=true&&hide_border=true) -->
 
-![ali's github stats](https://github-readme-stats.ali-moments.vercel.app/api?username=ali-moments&show_icons=true&&hide_border=true)
+![ali's github stats](https://github-readme-stats.vercel.app/api?username=ali-moments&show_icons=true&&hide_border=true)
 
 ![github card perfect name](https://user-images.githubusercontent.com/41824020/87243649-4cebaf80-c455-11ea-9519-6c30ed822e2d.png)
