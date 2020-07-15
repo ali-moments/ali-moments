@@ -20,4 +20,4 @@
 
 ![ali's github stats](https://github-readme-stats.vercel.app/api?username=ali-moments&show_icons=true&&hide_border=true)
 
-![github card perfect name]()
+![github card perfect name](https://github.com/ali-moments/ali-moments/blob/master/account.png?raw=true)
