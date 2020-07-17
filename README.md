@@ -22,6 +22,3 @@
 
 <!-- ![github card perfect name](https://github.com/ali-moments/ali-moments/blob/master/me.png?raw=true) -->
 
-
-- hello
-+ hi
