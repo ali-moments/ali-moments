@@ -18,7 +18,7 @@
 <!-- GitHub Readme stats -->
 <!-- ![ali's github stats](https://github-readme-stats.vercel.app/api?username=ali-moments&show_icons=true&&hide_border=true) -->
 
-![ali's github stats](https://github-readme-stats.vercel.app/api?username=ali-moments&show_icons=true&&hide_border=true)
+![ali's github stats](https://github-readme-stats.vercel.app/api?username=ali-moments&show_icons=true&&hide_border=false)
 
 <!-- ![github card perfect name](https://github.com/ali-moments/ali-moments/blob/master/me.png?raw=true) -->
 
