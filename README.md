@@ -5,7 +5,7 @@
 -->
 
 - 🔭 `I’m currently working on a voice assistant that I named him SOLDIER!`
-- 🌱 `I’m currently learning Genetic Algorithm in Python, c and ...`
+- 🌱 `I’m currently learning Genetic Algorithm in Python
 - 👯 `I’m looking to collaborate on python programming and shell scripting.`
 - 💬 `Ask me about any thing you want`
 - 😄 Pronouns: `thinker, ethical`
