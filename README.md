@@ -18,9 +18,8 @@
 <!-- GitHub Readme stats -->
 <!-- ![ali's github stats](https://github-readme-stats.vercel.app/api?username=ali-moments&show_icons=true&&hide_border=true) -->
 
-![ali's github stats](https://github-readme-stats.vercel.app/api?username=ali-moments&show_icons=true&&hide_border=true)
+![ali's github stats](https://github-readme-stats.vercel.app/api?username=ali-moments&show_icons=true&&hide_border=true) 
 
 <!-- ![github card perfect name](https://github.com/ali-moments/ali-moments/blob/master/me.png?raw=true) -->
 
-![AlbertoXamin's github stats](https://github-readme-stats.vercel.app/api?username=ali-moments&show_icons=true&count_private=true)
-<img src="https://wakatime.com/share/@99ed6396-cd11-4b90-b234-c7f3b1b0d787/1af6cfb8-5f2a-480d-b9d8-14c5123cd296.svg" alt="languages over last year" width="60%"/>
+<img src="https://wakatime.com/share/@ali_moments/2dfe4add-f8c3-4d5b-a228-f769e49372bf.svg" alt="languages over last year" width="60%"/>
