@@ -22,4 +22,4 @@
 
 <!-- ![github card perfect name](https://github.com/ali-moments/ali-moments/blob/master/me.png?raw=true) -->
 
-<img src="https://wakatime.com/share/@ali_moments/2dfe4add-f8c3-4d5b-a228-f769e49372bf.svg" alt="languages over last year" width="60%"/>
+<!-- <img src="https://wakatime.com/share/@ali_moments/2dfe4add-f8c3-4d5b-a228-f769e49372bf.svg" alt="languages over last year" width="60%"/>  -->
