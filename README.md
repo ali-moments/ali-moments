@@ -22,5 +22,6 @@
 
 <!-- ![github card perfect name](https://github.com/ali-moments/ali-moments/blob/master/me.png?raw=true) -->
 
- <!-- <img src="https://wakatime.com/share/@ali_moments/2dfe4add-f8c3-4d5b-a228-f769e49372bf.svg" alt="languages over last year" width="60%"/>  -->
-<figure><embed src="https://wakatime.com/share/@ali_moments/a4ad5f0c-9f3d-4c27-8eda-ad1ee21260c3.svg" alt="languages over last year" width="60%"></embed></figure>
+ <!-- <figure><embed src="https://wakatime.com/share/@ali_moments/a4ad5f0c-9f3d-4c27-8eda-ad1ee21260c3.svg" alt="languages over last year" width="60%"></embed></figure>  -->
+
+<img src="https://wakatime.com/share/@ali_moments/a4ad5f0c-9f3d-4c27-8eda-ad1ee21260c3.svg" alt="languages over last year" width="60%"/> 
