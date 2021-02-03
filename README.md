@@ -5,8 +5,8 @@
 -->
 
 - 🔭 `I’m currently working on a voice assistant that I named him SOLDIER!`
-- 🌱 `I’m currently learning Genetic Algorithm in Python`
-- 👯 `I’m looking to collaborate on python programming and shell scripting.`
+- 🌱 `I’m currently learning Java`
+- 👯 `I’m looking to collaborate on Minecraft plugins and mods.`
 - 💬 `Ask me about any thing you want`
 - 😄 Pronouns: `thinker, ethical`
 - ⚡ Fun fact: `1 commit a day, keeps the whiteness away` <!--Got a new Error... Progress :)-->
