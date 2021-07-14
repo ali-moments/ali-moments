@@ -29,4 +29,5 @@
 
  <!-- <figure><embed src="https://wakatime.com/share/@ali_moments/a4ad5f0c-9f3d-4c27-8eda-ad1ee21260c3.svg" alt="languages over last year" width="60%"></embed></figure>  -->
 
-<img src="https://wakatime.com/share/@ali_moments/a4ad5f0c-9f3d-4c27-8eda-ad1ee21260c3.svg" alt="languages over last year" width="60%"/> 
+<!-- <img src="https://wakatime.com/share/@ali_moments/a4ad5f0c-9f3d-4c27-8eda-ad1ee21260c3.svg" alt="languages over last year" width="60%"/> -->
+
