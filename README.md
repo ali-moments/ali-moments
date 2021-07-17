@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm momento and I Love computers 💻🧡
+I'm momento and I Love computers 💻🧡<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ali.momento)
 [![Telegram](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/happy_c0d3r)
 [![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/)
@@ -18,7 +18,7 @@ I'm momento and I Love computers 💻🧡
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+<br>
 <hr/>
 <details>
   <summary><b>&#x1f4c8; GitHub Statistics</b></summary>
@@ -31,8 +31,9 @@ I'm momento and I Love computers 💻🧡
   </div>
 </details>
 <hr/>
-<hr/>
+<br>
 - ⚡ Fun fact: `1 commit a day, keeps the whiteness away`
+<br>
 [![](https://visitor-badge.glitch.me/badge?page_id=ali-moments.ali-moments)]()
 
 
