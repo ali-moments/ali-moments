@@ -14,37 +14,37 @@
         <td><em>:speech_balloon: I write my code in...</em></td>
         <td>
             <a title="Java" href="https://github.com/ali-moments?tab=repositories&language=java">
-                <img alt="Java" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/java.svg" />
+                <img alt="Java" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/java.svg" />
             </a>
         </td>
         <td>
             <a title="C#" href="https://github.com/ali-moments?tab=repositories&language=c%23">
-                <img alt="C Sharp" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/csharp.svg" />
+                <img alt="C Sharp" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/csharp.svg" />
             </a>
         </td>
         <td>
             <a title="JavaScript" href="https://github.com/ali-moments?tab=repositories&language=javascript">
-                <img alt="Java Script" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/javascript.svg" />
+                <img alt="Java Script" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/javascript.svg" />
             </a>
         </td>
         <td>
             <a title="CSS" href="https://github.com/ali-moments?tab=repositories&language=css">
-                <img alt="CSS" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/css3.svg" />
+                <img alt="CSS" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/css3.svg" />
             </a>
         </td>
         <td>
             <a title="HTML" href="https://github.com/ali-moments?tab=repositories&language=html">
-                <img alt="HTML" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/html5.svg" />
+                <img alt="HTML" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/html5.svg" />
             </a>
         </td>
         <td>
             <a title="PHP" href="https://github.com/ali-moments?tab=repositories&language=php">
-                <img alt="PHP" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/php.svg" />
+                <img alt="PHP" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/php.svg" />
             </a>
         </td>
         <td>
             <a title="Lua" href="https://github.com/ali-moments?tab=repositories&language=lua">
-                <img alt="Lua" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/lua.svg" />
+                <img alt="Lua" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/lua.svg" />
             </a>
         </td>
         <td />
@@ -54,47 +54,47 @@
         <td><em>:books: I have experience with...</em></td>
         <td>
             <a title="node.js" href="https://nodejs.org/">
-                <img alt="Node JS" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/nodejs.svg" />
+                <img alt="Node JS" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/nodejs.svg" />
             </a>
         </td>
         <td>
             <a title="Apache Maven" href="https://maven.apache.org/">
-                <img alt="Maven" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/maven.svg" />
+                <img alt="Maven" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/maven.svg" />
             </a>
         </td>
         <td>
             <a title="Postgresql" href="https://www.postgresql.org/">
-                <img alt="Postgresql" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/postgresql.svg" />
+                <img alt="Postgresql" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/postgresql.svg" />
             </a>
         </td>
         <td>
             <a title="MySQL" href="https://www.mysql.com/">
-                <img alt="MySQL" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/mysql.svg" />
+                <img alt="MySQL" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/mysql.svg" />
             </a>
         </td>
         <td>
             <a title="Unity3D" href="https://unity.com/">
-                <img alt="Unity 3D" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/unity.svg" />
+                <img alt="Unity 3D" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/unity.svg" />
             </a>
         </td>
         <td>
             <a title="GraphQL" href="https://graphql.org/">
-                <img alt="GraphQL" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/graphql.svg" />
+                <img alt="GraphQL" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/graphql.svg" />
             </a>
         </td>
         <td>
             <a title="Discord" href="https://discord.com/">
-                <img alt="Discord" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/discord.svg" />
+                <img alt="Discord" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/discord.svg" />
             </a>
         </td>
         <td>
             <a title="GitHub Actions" href="https://github.com/features/actions">
-                <img alt="GitHub Actions" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/githubactions.svg" />
+                <img alt="GitHub Actions" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/githubactions.svg" />
             </a>
         </td>
         <td>
             <a title="ElectronJS" href="https://www.electronjs.org/">
-                <img alt="ElectronJS" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/electron.svg" />
+                <img alt="ElectronJS" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/electron.svg" />
             </a>
         </td>
     </tr>
@@ -102,47 +102,47 @@
         <td><em>:wrench: I am regularly using...</em></td>
         <td>
             <a title="GitHub" href="https://github.com/">
-                <img alt="GitHub" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/github.svg" />
+                <img alt="GitHub" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/github.svg" />
             </a>
         </td>
         <td>
             <a title="Eclipse IDE" href="https://www.eclipse.org/">
-                <img alt="Eclipse" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/eclipse.svg" />
+                <img alt="Eclipse" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/eclipse.svg" />
             </a>
         </td>
         <td>
             <a title="IntelliJ IDEA" href="https://www.jetbrains.com/idea/">
-                <img alt="IntelliJ IDEA" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/intellijidea.svg" />
+                <img alt="IntelliJ IDEA" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/intellijidea.svg" />
             </a>
         </td>
         <td>
             <a title="Visual Studio" href="https://visualstudio.microsoft.com/">
-                <img alt="Visual Studio" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/visualstudio.svg" />
+                <img alt="Visual Studio" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/visualstudio.svg" />
             </a>
         </td>
         <td>
             <a title="Unity3D" href="https://unity.com/">
-                <img alt="Unity 3D" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/unity.svg" />
+                <img alt="Unity 3D" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/unity.svg" />
             </a>
         </td>
         <td>
             <a title="diagrams.net" href="https://www.diagrams.net/">
-                <img alt="diagrams.net" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/diagrams.svg" />
+                <img alt="diagrams.net" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/diagrams.svg" />
             </a>
         </td>
         <td>
             <a title="Raspberry Pi" href="https://www.raspberrypi.org/">
-                <img alt="Raspberry Pi" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/raspberrypi.svg" />
+                <img alt="Raspberry Pi" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/raspberrypi.svg" />
             </a>
         </td>
         <td>
             <a title="Atom" href="https://atom.io/">
-                <img alt="Atom" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/atom.svg" />
+                <img alt="Atom" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/atom.svg" />
             </a>
         </td>
         <td>
             <a title="Sonarcloud" href="https://sonarcloud.io/">
-                <img alt="Sonarcloud" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/icons/sonarcloud.svg" />
+                <img alt="Sonarcloud" height="24px" src="https://raw.githubusercontent.com/ali-moments/ali-moments/master/momento/icons/sonarcloud.svg" />
             </a>
         </td>
     </tr>
