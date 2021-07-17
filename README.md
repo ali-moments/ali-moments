@@ -1,9 +1,5 @@
 ### Hi there 👋 [![](https://visitor-badge.glitch.me/badge?page_id=ali-moments.ali-moments)]()
 
-<!--
-**ali-moments/ali-moments**
--->
-
 - 🔭 `I’m currently working on a voice assistant that I named him SOLDIER!`
 - 🌱 `I’m currently learning Java`
 - 👯 `I’m looking to collaborate on Minecraft plugins and mods.`
@@ -17,14 +13,20 @@
 <hr />
 
 <details>
-  <summary><b>GitHub Statistics</b></summary>
+  <summary><b>&#x1f4c8; GitHub Statistics</b></summary>
   <div>
-    <img height="135px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ali-moments&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord" />
-    <img height="135px" width="362px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-moments&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" />
+    <img height="135px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ali-moments&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
+    <img height="135px" width="362px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-moments&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
+  </div>
+  <br>
+  <div>
+    <img height="300px" width="750px" src="https://activity-graph.herokuapp.com/graph?username=nimiology&theme=react-dark&area=true" />
   </div>
 </details>
 
-<!-- GitHub Readme stats -->
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimiology&show_icons=true&theme=nord) 
+-->
 <!-- ![ali's github stats](https://github-readme-stats.vercel.app/api?username=ali-moments&show_icons=true&&hide_border=true) -->
 
 <!-- ![ali's github stats](https://github-readme-stats.vercel.app/api?username=ali-moments&show_icons=true&&hide_border=true) -->
