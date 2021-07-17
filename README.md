@@ -1,17 +1,25 @@
-### Hi there 👋 [![](https://visitor-badge.glitch.me/badge?page_id=ali-moments.ali-moments)]()
+### Hi there 👋 
+I'm momento and I Love computers 💻🧡
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ali.momento)
+[![Telegram](https://img.shields.io/badge/Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/happy_c0d3r)
+[![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/)
+[![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=black&color=white)](https://github.com/ali-moments)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ali.momento2334@gmail.com)
 
-- 🔭 `I’m currently working on a voice assistant that I named him SOLDIER!`
-- 🌱 `I’m currently learning Java`
-- 👯 `I’m looking to collaborate on Minecraft plugins and mods.`
-- 💬 `Ask me about any thing you want`
-- ⚡ Fun fact: `1 commit a day, keeps the whiteness away` <!--Got a new Error... Progress :)-->
+## 🔧 Technologies & Tools
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![PYCHARM](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![editor](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=blue)
+![VScode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=@happy_c0d3r&color=grey&logo=telegram&labelColor=0088ff&style=social)](https://t.me/happy_c0d3r)
-[![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ali.momento/)
-[![Github Gists](https://img.shields.io/github/followers/ali-moments?color=0088ff&label=Gists&logoColor=blue&style=social)](https://gist.github.com/ali-moments)
-
-<hr />
-
+<hr/>
 <details>
   <summary><b>&#x1f4c8; GitHub Statistics</b></summary>
   <div>
@@ -19,10 +27,32 @@
     <img height="135px" width="362px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-moments&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
   </div>
   <div>
-    <img height="270px" width="800px" src="https://activity-graph.herokuapp.com/graph?username=ali-moments&theme=react-dark&area=true" />
+    <img height="250px" width="770px" src="https://activity-graph.herokuapp.com/graph?username=ali-moments&theme=react-dark&area=true" />
   </div>
 </details>
+<hr/>
+<hr/>
+- ⚡ Fun fact: `1 commit a day, keeps the whiteness away`
+[![](https://visitor-badge.glitch.me/badge?page_id=ali-moments.ali-moments)]()
 
+
+
+
+
+
+
+<!--
+- 🔭 `I’m currently working on a voice assistant that I named him SOLDIER!`
+- 🌱 `I’m currently learning Java`
+- 👯 `I’m looking to collaborate on Minecraft plugins and mods.`
+- 💬 `Ask me about any thing you want`
+- ⚡ Fun fact: `1 commit a day, keeps the whiteness away` 
+-->
+<!--
+[![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=@happy_c0d3r&color=grey&logo=telegram&labelColor=0088ff&style=social)](https://t.me/happy_c0d3r)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ali.momento/)
+[![Github Gists](https://img.shields.io/github/followers/ali-moments?color=0088ff&label=Gists&logoColor=blue&style=social)](https://gist.github.com/ali-moments)
+-->
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimiology&show_icons=true&theme=nord) 
 -->
