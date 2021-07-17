@@ -31,7 +31,6 @@ I'm momento and I Love computers 💻🧡<br>
   </div>
 </details>
 <hr/>
-<br>
 - ⚡ Fun fact: `1 commit a day, keeps the whiteness away`
 <br>
 
