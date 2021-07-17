@@ -34,7 +34,6 @@ I'm momento and I Love computers 💻🧡<br>
 <br>
 - ⚡ Fun fact: `1 commit a day, keeps the whiteness away`
 <br>
-![visits](https://visitor-badge.glitch.me/badge?page_id=ali-moments)
 
 
 
@@ -50,6 +49,7 @@ I'm momento and I Love computers 💻🧡<br>
 - ⚡ Fun fact: `1 commit a day, keeps the whiteness away` 
 -->
 <!--
+![visits](https://visitor-badge.glitch.me/badge?page_id=ali-moments)
 [![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=@happy_c0d3r&color=grey&logo=telegram&labelColor=0088ff&style=social)](https://t.me/happy_c0d3r)
 [![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ali.momento/)
 [![Github Gists](https://img.shields.io/github/followers/ali-moments?color=0088ff&label=Gists&logoColor=blue&style=social)](https://gist.github.com/ali-moments)
