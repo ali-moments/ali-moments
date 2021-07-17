@@ -20,8 +20,8 @@
 <details>
   <summary><b>GitHub Statistics</b></summary>
   <div>
-    <img height="135px" width="445px" src="https://github-readme-stats.vercel.app/api?username=ali-moments&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord" />
-    <img height="130px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-moments&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" />
+    <img height="140px" width="420px" src="https://github-readme-stats.vercel.app/api?username=ali-moments&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord" />
+    <img height="120px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-moments&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" />
   </div>
 </details>
 
