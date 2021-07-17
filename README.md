@@ -34,7 +34,7 @@ I'm momento and I Love computers 💻🧡<br>
 <br>
 - ⚡ Fun fact: `1 commit a day, keeps the whiteness away`
 <br>
-[![](https://visitor-badge.glitch.me/badge?page_id=ali-moments.ali-moments)]()
+![](https://visitor-badge.glitch.me/badge?page_id=ali-moments.ali-moments)
 
 
 
