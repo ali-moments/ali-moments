@@ -9,7 +9,7 @@
 
 <hr />
 
-<table>
+<table align="center">
     <tr>
         <td><em>:speech_balloon: I write my code in...</em></td>
         <td>
