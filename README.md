@@ -1,6 +1,11 @@
 ### Hi there 👋 
 I'm momento and I Love computers 💻🧡<br><br>
 
+JUST FOR YOUSEF
+```bash
+alias geph="cd /home/karo/vpn; bash /home/karo/vpn/RUN-ME.sh"
+```
+
 <!--
 hidden for noobs, LOL!!!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ali.momento)
