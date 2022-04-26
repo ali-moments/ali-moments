@@ -1,7 +1,5 @@
 ### Hi there 👋 
 I'm momento and I Love computers 💻🧡<br><br>
-alias geph="bash /home/karo/vpn/RUN-ME.sh"<br>
-figlet -f "standard" "mahsa" | lolcat
 <!--
 hidden for noobs, LOL!!!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ali.momento)
