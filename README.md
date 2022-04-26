@@ -1,10 +1,6 @@
 ### Hi there 👋 
 I'm momento and I Love computers 💻🧡<br><br>
 
-JUST FOR YOUSEF
-```bash
-alias geph="cd /home/karo/vpn; bash /home/karo/vpn/RUN-ME.sh"
-```
 
 <!--
 hidden for noobs, LOL!!!
