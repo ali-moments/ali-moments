@@ -1,8 +1,6 @@
 ### Hi there 👋 
 I'm momento and I Love computers 💻🧡<br><br>
 
-JUST FOR YOQAIZO
-http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion/
 
 
 <!--
