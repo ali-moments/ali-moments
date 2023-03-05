@@ -1,6 +1,6 @@
-<h1 style="font-size: 10rem; background: linear-gradient(to right, #437ccd, #45d6ca); background-clip: initial; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+<p style="font-size: 10rem; background: linear-gradient(to right, #437ccd, #45d6ca); background-clip: initial; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     Momento   
-</h1>
+<p>
 
 ### Hi there 👋 
 I'm momento and I Love computers 💻🧡<br><br>
