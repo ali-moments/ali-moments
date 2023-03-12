@@ -84,3 +84,10 @@ hidden for noobs, LOL!!!
 
 <!-- <img src="https://wakatime.com/share/@ali_moments/a4ad5f0c-9f3d-4c27-8eda-ad1ee21260c3.svg" alt="languages over last year" width="60%"/> -->
 
+<!--
+[buy me a coffee](https://www.coffeete.ir/alimomento)
+
+| If you consider buying me a coffee/tea 🥺👉👈  | <a href="http://www.coffeete.ir/alimomento" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>|
+ | ----------------- | ------------------- |
+
+-->
