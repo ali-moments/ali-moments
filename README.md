@@ -1,3 +1,4 @@
+
 <!-- 
 <h1 style="font-size: 10rem; background: linear-gradient(to right, #437ccd, #45d6ca); background-clip: initial; -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     Momento   
@@ -42,6 +43,13 @@ hidden for noobs, LOL!!!
   </div>
 </details>
 <hr/>
+
+> Noise proves nothing.  Often a hen who has merely laid an egg cackles
+as if she laid an asteroid.
+		-- Mark Twain
+
+<br><hr>
+
 ⚡ Fun fact: `1 commit a day, keeps the whiteness away`
 
 <br>
