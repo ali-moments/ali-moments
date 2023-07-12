@@ -44,7 +44,7 @@ hidden for noobs, LOL!!!
 </details>
 <hr/>
 
-> You have literary talent that you should take pains to develop.
+> 
 
 <br><hr>
 
