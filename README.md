@@ -44,7 +44,7 @@ hidden for noobs, LOL!!!
 </details>
 <hr/>
 
-> Learn to pause -- or nothing worthwhile can catch up to you.
+> You have literary talent that you should take pains to develop.
 
 <br><hr>
 
