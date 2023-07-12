@@ -44,8 +44,8 @@ hidden for noobs, LOL!!!
 </details>
 <hr/>
 
-> Noise proves nothing.  Often a hen who has merely laid an egg cackles
-as if she laid an asteroid.
+> In the first place, God made idiots; this was for practice; then he made
+school boards.
 		-- Mark Twain
 
 <br><hr>
