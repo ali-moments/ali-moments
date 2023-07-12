@@ -44,7 +44,7 @@ hidden for noobs, LOL!!!
 </details>
 <hr/>
 
-> Your ignorance cramps my conversation.
+> Learn to pause -- or nothing worthwhile can catch up to you.
 
 <br><hr>
 
