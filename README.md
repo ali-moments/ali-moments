@@ -44,8 +44,7 @@ hidden for noobs, LOL!!!
 </details>
 <hr/>
 
-> While you recently had your problems on the run, they've regrouped and
-are making another attack.
+> 
 
 <br><hr>
 
