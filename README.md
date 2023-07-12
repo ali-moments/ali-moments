@@ -44,7 +44,7 @@ hidden for noobs, LOL!!!
 </details>
 <hr/>
 
-> 
+> Your ignorance cramps my conversation.
 
 <br><hr>
 
