@@ -44,7 +44,8 @@ hidden for noobs, LOL!!!
 </details>
 <hr/>
 
-> 
+> Q:	Why did the programmer call his mother long distance?
+A:	Because that was her name.
 
 <br><hr>
 
