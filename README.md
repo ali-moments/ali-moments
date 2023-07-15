@@ -44,7 +44,7 @@ hidden for noobs, LOL!!!
 </details>
 <hr/>
 
-> You'll never be the man your mother was!
+> 
 
 <br><hr>
 
