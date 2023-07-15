@@ -44,8 +44,9 @@ hidden for noobs, LOL!!!
 </details>
 <hr/>
 
-> Q:	Why did the programmer call his mother long distance?
-A:	Because that was her name.
+> Q:	Why should you always serve a Southern Carolina football man
+	soup in a plate?
+A:	'Cause if you give him a bowl, he'll throw it away.
 
 <br><hr>
 
