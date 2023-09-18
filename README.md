@@ -44,7 +44,9 @@ hidden for noobs, LOL!!!
 </details>
 <hr/>
 
-> 
+> Don't hurry your code. Make sure it works well and is well designed. Don't worry about timing.
+>
+> *Linus Torvalds*
 
 <br><hr>
 
