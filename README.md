@@ -38,9 +38,9 @@ hidden for noobs, LOL!!!
     <img height="135px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ali-moments&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
     <img height="135px" width="362px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-moments&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
   </div>
-  <div>
+  <!-- <div>
     <img height="250px" width="770px" src="https://activity-graph.herokuapp.com/graph?username=ali-moments&theme=react-dark&area=true" />
-  </div>
+  </div> -->
 </details>
 <hr/>
 
