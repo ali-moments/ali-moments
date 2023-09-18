@@ -48,10 +48,8 @@ hidden for noobs, LOL!!!
 >
 > *Linus Torvalds*
 
-<br><hr>
-
+<hr>
 ⚡ Fun fact: `1 commit a day, keeps the whiteness away`
-
 <br>
 
 
