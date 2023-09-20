@@ -127,8 +127,8 @@
 ###
 
 ## 📊 GitHub Stats:
-
 <br clear="both">
+<br>
 
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=ali-moments&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="140" alt="streak graph"  />
