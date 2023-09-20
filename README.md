@@ -2,11 +2,6 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-moments.ali-moments&left_color=darkcyan&right_color=coral&left_text=Views: "  />
 </div>
-<div align="left">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=ali-moments&icon=0&color=0" alt="Visit Count">
-    </a>
-</div>
 <!-- <br clear="both"> -->
 
 ## 💫 About Me:
