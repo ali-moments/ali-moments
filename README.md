@@ -132,7 +132,7 @@
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=ali-moments&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="140" alt="streak graph"  />
 </div>
-
+<br>
 <details>
   <summary><b>📊 More Stats</b></summary>
   <div align="center">
@@ -143,6 +143,7 @@
     <img src="https://github-contributor-stats.vercel.app/api?username=ali-moments&limit=5&theme=gruvbox&combine_all_yearly_contributions=true">
   </div>
 </details>
+<hr>
 
 <br clear="both">
 
@@ -177,6 +178,9 @@
 
 ###
 
+## 
+
+<br>
 <hr/>
 <details>
   <summary><b>🏆 GitHub Trophies</b></summary>
@@ -189,11 +193,9 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif"  />
+<img align="right" width="25%" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif"  />
 
-###
-
-<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<img align="left" width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 <table align="left">
   <tr>
@@ -201,6 +203,15 @@
     <td><a href="http://www.coffeete.ir/alimomento" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a></td>
   </tr>
 </table>
+
+<br clear="both">
+
+<br>
+<details>
+  <summary><b>😂 Random Dev Meme</b></summary>
+  <br>
+  <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</details>
 
 ###
 
