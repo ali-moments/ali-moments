@@ -11,7 +11,11 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-moments.ali-moments&left_color=darkcyan&right_color=coral&left_text=Views: "  />
 </div>
-[![](https://visitcount.itsvg.in/api?id=ali-moments&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="left">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=ali-moments&icon=0&color=0" alt="Visit Count">
+    </a>
+</div>
 
 ###
 
@@ -20,6 +24,33 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ali-moments&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-moments&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://t.me/happy_c0d3r" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="telegram logo"  />
+  </a>
+  <a href="https://twitter.com/mardmozi1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"  />
+  </a>
+  <a href="https://www.instagram.com/ali.momento/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/alimomento" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/wNkHvwu68X" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCiWO3YdDV_rj4FiYlkNDkqA" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"  />
+  </a>
+  <a href="https://twitch.tv/ali_moments" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitch logo"  />
+  </a>
 </div>
 
 ###
@@ -115,34 +146,6 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://t.me/happy_c0d3r" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="telegram logo"  />
-  </a>
-  <a href="https://twitter.com/mardmozi1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/ali.momento/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/alimomento" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/wNkHvwu68X" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCiWO3YdDV_rj4FiYlkNDkqA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"  />
-  </a>
-  <a href="https://twitch.tv/ali_moments" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitch logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
   <a href="xxxxx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
   </a>
@@ -174,7 +177,7 @@
 <hr/>
 <details>
   <summary><b>🏆 GitHub Trophies</b></summary>
-  ![](https://github-profile-trophy.vercel.app/?username=ali-moments&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+  <img src="https://github-profile-trophy.vercel.app/?username=ali-moments&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4">
 </details>
 <hr>
 
@@ -188,7 +191,7 @@
 
 <p align="left">Hello World!!</p>
 <p align="left">⚡ Fun fact: `1 commit a day, keeps the whiteness away`</p>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 ###
 
