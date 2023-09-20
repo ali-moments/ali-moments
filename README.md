@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋! My name is Momento and I'm a Computer Lover.</h2>
-<br clear="both">
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-moments.ali-moments&left_color=darkcyan&right_color=coral&left_text=Views: "  />
 </div>
@@ -8,14 +7,13 @@
         <img src="https://visitcount.itsvg.in/api?id=ali-moments&icon=0&color=0" alt="Visit Count">
     </a>
 </div>
-<br clear="both">
+<!-- <br clear="both"> -->
 
 ## 💫 About Me:
 
 
 
 ## 🌐 Socials:
-
 <div align="center">
   <a href="https://t.me/happy_c0d3r" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="telegram logo"  />
