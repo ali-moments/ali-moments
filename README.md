@@ -1,11 +1,18 @@
 <h2 align="left">Hi 👋! My name is Momento and I'm a Computer Lover.</h2>
 
+# 💫 About Me:
+
+
+
 ###
 
 <br clear="both">
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-moments.ali-moments&left_color=darkcyan&right_color=coral&left_text=Views: "  />
+</div>
+<div align="left">
+  [![](https://visitcount.itsvg.in/api?id=ali-moments&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 ###
@@ -166,6 +173,17 @@
 
 ###
 
+<hr/>
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+  <div>
+  ![](https://github-profile-trophy.vercel.app/?username=ali-moments&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+  </div>
+</details>
+<hr>
+
+###
+
 <br clear="both">
 
 <img align="right" height="200" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif"  />
@@ -173,6 +191,10 @@
 ###
 
 <p align="left">Hello World!!</p>
+<p align="left">⚡ Fun fact: `1 commit a day, keeps the whiteness away`</p>
+<div align="left">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ###
 
@@ -185,19 +207,3 @@
 | If you consider buying me a coffee/tea 🥰 | <a href="http://www.coffeete.ir/alimomento" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>|
 | ----------------- | ------------------- |
 
-###
-
-<hr/>
-<details>
-  <summary><b>&#x1f4c8; GitHub Statistics</b></summary>
-  <div>
-    <img height="135px" width="400px" src="https://github-readme-stats.vercel.app/api?username=ali-moments&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
-    <img height="135px" width="362px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-moments&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
-  </div>
-   <div>
-    <img height="250px" width="770px" src="https://activity-graph.herokuapp.com/graph?username=ali-moments&theme=react-dark&area=true" />
-  </div>
-</details>
-<hr>
-⚡ Fun fact: `1 commit a day, keeps the whiteness away`
-<br>
