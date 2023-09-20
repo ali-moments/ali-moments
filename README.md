@@ -11,9 +11,7 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-moments.ali-moments&left_color=darkcyan&right_color=coral&left_text=Views: "  />
 </div>
-<div align="left">
-  [![](https://visitcount.itsvg.in/api?id=ali-moments&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+[![](https://visitcount.itsvg.in/api?id=ali-moments&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 
@@ -176,9 +174,7 @@
 <hr/>
 <details>
   <summary><b>🏆 GitHub Trophies</b></summary>
-  <div>
   ![](https://github-profile-trophy.vercel.app/?username=ali-moments&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-  </div>
 </details>
 <hr>
 
@@ -192,18 +188,17 @@
 
 <p align="left">Hello World!!</p>
 <p align="left">⚡ Fun fact: `1 commit a day, keeps the whiteness away`</p>
-<div align="left">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ali-moments/ali-moments/output/snake.svg" alt="Snake animation" />
+| If you consider buying me a coffee/tea 🥰 | <a href="http://www.coffeete.ir/alimomento" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>|
+| ----------------- | ------------------- |
 
 ###
 
-| If you consider buying me a coffee/tea 🥰 | <a href="http://www.coffeete.ir/alimomento" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>|
-| ----------------- | ------------------- |
+<img src="https://raw.githubusercontent.com/ali-moments/ali-moments/output/snake.svg" alt="Snake animation" />
+
 
