@@ -1,9 +1,5 @@
 <h2 align="left">Hi 👋! My name is Momento and I'm a Computer Lover.</h2>
-
-###
-
 <br clear="both">
-
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ali-moments.ali-moments&left_color=darkcyan&right_color=coral&left_text=Views: "  />
 </div>
@@ -12,14 +8,13 @@
         <img src="https://visitcount.itsvg.in/api?id=ali-moments&icon=0&color=0" alt="Visit Count">
     </a>
 </div>
-
-###
-
 <br clear="both">
 
 ## 💫 About Me:
 
 
+
+## 🌐 Socials:
 
 <div align="center">
   <a href="https://t.me/happy_c0d3r" target="_blank">
@@ -133,6 +128,8 @@
 
 ## 📊 GitHub Stats:
 
+<br clear="both">
+
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=ali-moments&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="140" alt="streak graph"  />
 </div>
@@ -144,9 +141,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-moments&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=ali-moments&limit=5&theme=gruvbox&combine_all_yearly_contributions=true">
+</div>
 
 <br clear="both">
+
+## 🌐 Other Socials:
 
 <div align="center">
   <a href="xxxxx" target="_blank">
