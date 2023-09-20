@@ -140,12 +140,10 @@
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=ali-moments&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4">
 </details>
-<hr>
-
-<br clear="both">
 
 ## 🌐 Other Socials:
 
+<br clear="both">
 <div align="center">
   <a href="xxxxx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="25" alt="codesandbox logo"  />
