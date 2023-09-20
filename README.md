@@ -122,28 +122,27 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif"  />
-
 ###
 
 ## 📊 GitHub Stats:
 <br clear="both">
-<br>
+
+<img align="left" height="150" src="https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif"  />
 
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=ali-moments&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="140" alt="streak graph"  />
 </div>
 
-<br clear="both">
-
-<div align="center">
+<details>
+  <summary><b>📊 More Stats</b></summary>
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ali-moments&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-moments&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=ali-moments&limit=5&theme=gruvbox&combine_all_yearly_contributions=true">
-</div>
+  </div>
+  <div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=ali-moments&limit=5&theme=gruvbox&combine_all_yearly_contributions=true">
+  </div>
+</details>
 
 <br clear="both">
 
