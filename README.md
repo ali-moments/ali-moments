@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="1.gif"  />
+<img align="right" height="160" src="1.gif"  />
 
 ###
 
