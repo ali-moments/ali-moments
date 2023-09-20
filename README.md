@@ -4,9 +4,7 @@
 </div>
 <!-- <br clear="both"> -->
 
-## 💫 About Me:
-
-
+<!-- ## 💫 About Me: -->
 
 ## 🌐 Socials:
 <div align="center">
@@ -136,6 +134,12 @@
     <img src="https://github-contributor-stats.vercel.app/api?username=ali-moments&limit=5&theme=gruvbox&combine_all_yearly_contributions=true">
   </div>
 </details>
+<br>
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=ali-moments&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4">
+</details>
 <hr>
 
 <br clear="both">
@@ -169,21 +173,6 @@
   </a>
 </div>
 
-###
-
-## 
-
-<br>
-<hr/>
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ali-moments&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4">
-</details>
-<hr>
-
-###
-
 <br clear="both">
 
 <img align="right" width="29%" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif"  />
@@ -205,7 +194,6 @@
   <br>
   <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </details>
-<br clear="both">
 <img src="https://raw.githubusercontent.com/ali-moments/ali-moments/output/snake.svg" alt="Snake animation" />
 <p>⚡ Fun fact: `1 commit a day, keeps the whiteness away`</p>
 
