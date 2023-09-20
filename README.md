@@ -1,9 +1,5 @@
 <h2 align="left">Hi 👋! My name is Momento and I'm a Computer Lover.</h2>
 
-# 💫 About Me:
-
-
-
 ###
 
 <br clear="both">
@@ -21,13 +17,9 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-moments&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-moments&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 💫 About Me:
 
 
-<br clear="both">
 
 <div align="center">
   <a href="https://t.me/happy_c0d3r" target="_blank">
@@ -54,6 +46,8 @@
 </div>
 
 ###
+
+## 💻 Tech Stack:
 
 <br clear="both">
 
@@ -137,8 +131,17 @@
 
 ###
 
+## 📊 GitHub Stats:
+
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=ali-moments&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="140" alt="streak graph"  />
+</div>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-moments&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-moments&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -177,6 +180,7 @@
 <hr/>
 <details>
   <summary><b>🏆 GitHub Trophies</b></summary>
+  <br>
   <img src="https://github-profile-trophy.vercel.app/?username=ali-moments&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4">
 </details>
 <hr>
@@ -189,16 +193,20 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-<p align="left">⚡ Fun fact: `1 commit a day, keeps the whiteness away`</p>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+
+<table align="left">
+  <tr>
+    <td>If you consider buying me a coffee/tea 🥰</td>
+    <td><a href="http://www.coffeete.ir/alimomento" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a></td>
+  </tr>
+</table>
 
 ###
 
 <br clear="both">
 
-| If you consider buying me a coffee/tea 🥰 | <a href="http://www.coffeete.ir/alimomento" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>|
-| ----------------- | ------------------- |
+<p>⚡ Fun fact: `1 commit a day, keeps the whiteness away`</p>
 
 ###
 
