@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148"  />
+<img align="right" height="150" src="1.gif"  />
 
 ###
 
@@ -118,7 +118,7 @@
 ## 📊 GitHub Stats:
 <br clear="both">
 
-<img align="left" height="150" src="https://64.media.tumblr.com/ad0ebf01e41a015c039de09eba75e0ca/tumblr_oz6ok0UkdK1w4t58uo1_540.gif"  />
+<img align="left" height="150" src="2.gif"  />
 
 <div align="right">
   <img src="https://streak-stats.demolab.com?user=ali-moments&locale=en&mode=weekly&theme=gruvbox&hide_border=false&border_radius=5&date_format=j M[ Y]&order=3" height="140" alt="streak graph"  />
@@ -170,11 +170,9 @@
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
   </a>
 </div>
-
 <br clear="both">
-
-<img align="right" width="29%" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif"  />
-
+<hr>
+<img align="right" width="29%" src="3.gif"  />
 <img align="left" width="66%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 <table align="left">
