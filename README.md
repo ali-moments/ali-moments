@@ -190,6 +190,6 @@
   <br>
   <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </details>
-<img src="https://raw.githubusercontent.com/ali-moments/ali-moments/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/ali-moments/ali-moments/output/snake.svg" alt="Snake animation" /> -->
 <p>⚡ Fun fact: `1 commit a day, keeps the whiteness away`</p>
 
