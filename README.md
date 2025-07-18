@@ -11,18 +11,21 @@
   <a href="https://t.me/happy_c0d3r" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="telegram logo"  />
   </a>
-  <a href="https://twitter.com/mardmozi1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"  />
+  <a href="https://t.me/momento_hastam" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="telegram logo"  />
   </a>
+  <!-- <a href="https://twitter.com/mardmozi1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="twitter logo"  />
+  </a> -->
   <a href="https://www.instagram.com/ali.momento/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/alimomento" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.gg/wNkHvwu68X" target="_blank">
+  <!-- <a href="https://discord.gg/wNkHvwu68X" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
-  </a>
+  </a> -->
   <a href="https://www.youtube.com/channel/UCiWO3YdDV_rj4FiYlkNDkqA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="youtube logo"  />
   </a>
