@@ -87,19 +87,19 @@ class Momento:
 
 </div>
 
-<details>
-  <summary><b>🏆 GitHub Trophies</b></summary>
+<details open>
+  <summary><b>📈 Contribution Calendar and Languages</b></summary>
   <br>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ali-moments&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+    <img src="./github-metrics.svg" alt="contribution calendar and languages" />
   </div>
 </details>
 
 <details>
-  <summary><b>📈 Contribution Graph</b></summary>
+  <summary><b>🏆 Achievements</b></summary>
   <br>
   <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-moments&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+    <img src="./github-achievements.svg" alt="achievements" />
   </div>
 </details>
 
